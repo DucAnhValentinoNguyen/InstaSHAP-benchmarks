@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+
+# Editor
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs & artifacts
+logs/
+*.log
+tensorboard/
+
+# Data (optional)
+*.csv
+*.tsv
+
+# Models (optional)
+*.pt
+*.pth
+*.pkl
