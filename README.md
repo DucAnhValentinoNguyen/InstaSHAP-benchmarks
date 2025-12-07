@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 # Hybrid InstaSHAP: Combining Clustering and Distribution Compression for Efficient Explainability
 
-This repository contains the implementation, experiments, and analysis for the **Hybrid InstaSHAP** seminar project at **LMU Munich**, supervised by **Prof. Giuseppe Casalicchio**.
+This repository contains the implementation, experiments, and analysis for the **Hybrid InstaSHAP** seminar project at **LMU Munich**, supervised by **Dr. Giuseppe Casalicchio**.
 
 The goal of this project is to develop a **hybrid background summarization strategy** for SHAP that combines:
 
