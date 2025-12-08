@@ -46,9 +46,9 @@ Apply kernel thinning/herding to ensure global distributional representativeness
 Train fast additive models to approximate SHAP values directly.
 
 ### 4. **Hybrid Background Set**
-```
-Hybrid = Cluster Representatives ∪ Compressed Samples
-```
+
+Hybrid = Cluster Representatives + Compressed Samples
+
 
 Benefits:
 
