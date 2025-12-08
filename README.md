@@ -122,8 +122,7 @@ Figures located in `figures/`.
 ## 📘 Project Information
 
 **Author:** Duc-Anh Nguyen & Shuai Wang
-
-**Supervisor:** Prof. Giuseppe Casalicchio  
+**Supervisor:** Dr. Giuseppe Casalicchio  
 **Institution:** LMU Munich, Department of Statistics  
 **Course:** XAI Seminar (Winter Semester 2025–26)
 
