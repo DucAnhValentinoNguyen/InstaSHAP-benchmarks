@@ -1,18 +1,11 @@
 ![Python](https://img.shields.io/badge/python-3.10-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
-# Hybrid InstaSHAP: Combining Clustering and Distribution Compression for Efficient Explainability
+# InstaSHAP Benchmark: Testing new proposed method of calculating SHAP values called instaSHAP
 
-This repository contains the implementation, experiments, and analysis for the **Hybrid InstaSHAP** seminar project at **LMU Munich**, supervised by **Dr. Giuseppe Casalicchio**.
+This repository contains the implementation, experiments, and analysis for the **instaSHAP** seminar project at **LMU Munich**, supervised by **Dr. Giuseppe Casalicchio**.
 
-The goal of this project is to develop a **hybrid background summarization strategy** for SHAP that combines:
-
-- **Clustering-based prototypes** (semantic representativeness)  
-- **Distribution compression via kernel thinning** (statistical representativeness)  
-- **InstaSHAP-style additive surrogate models** for instant SHAP approximation  
-
-This hybrid approach improves **runtime efficiency**, **stability**, and **approximation quality** compared to standard background sampling.
-
+The goal of this project is to 
 ---
 
 ## 🚀 Motivation
@@ -30,7 +23,7 @@ Two existing solutions address parts of this problem:
 | **Clustering** | Produces semantic prototypes | Poor distributional coverage |
 | **Distribution Compression (Kernel Thinning)** | Strong statistical guarantees | No semantic interpretation |
 
-The **Hybrid InstaSHAP** method combines both for a balanced, efficient background set.
+The **InstaSHAP** method combines both for a balanced, efficient background set.
 
 ---
 
